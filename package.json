@@ -1,0 +1,23 @@
+{
+  "name": "kurtea",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ardhaKur/kurtea"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardhaKur/kurtea/issues"
+  },
+  "homepage": "https://github.com/ardhaKur/kurtea#readme",
+  "dependencies": {
+    "buatteakamu": "^1.1.2",
+    "mousemase": "^1.1.2"
+  }
+}
